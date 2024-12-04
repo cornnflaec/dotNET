@@ -1,0 +1,50 @@
+
+
+C# and OOP Concepts
+https://www.youtube.com/watch?v=BM4CHBmAPh4&list=PLJAxBdy6U9__VQY6vDj1RxVnVWE2Yp1Ev
+What is .NET? | .NET Core 101 [1 of 8]
+https://www.youtube.com/watch?v=eIHKZfgddLM
+Installing .NET | .NET Core 101 [2 of 8]
+https://www.youtube.com/watch?v=LlTHXtKIb3E
+What is a .NET Hello World App? | .NET Core 101 [3 of 8]
+https://www.youtube.com/watch?v=uKoqBCyFATw&t=2s
+Basic Debugging | .NET Core 101 [4 of 8]
+https://www.youtube.com/watch?v=feWeInify18
+Adding a Class Library | .NET Core 101 [5 of 8]
+https://www.youtube.com/watch?v=Jms3C-J-m2M
+Using a Nuget Package | .NET Core 101 [6 of 8]
+https://www.youtube.com/watch?v=hYbe6sFYBDY
+Unit Testing | .NET Core 101 [7 of 8]
+https://www.youtube.com/watch?v=QBiBZ8bsfcU&t=4s
+Publishing an App | .NET Core 101 [8 of 8]
+https://www.youtube.com/watch?v=PFtxjTMl5N0
+.NET 7 Web API & Entity Framework 🚀 Full Course (CRUD, Repository Pattern, DI, SQL Server & more)
+https://www.youtube.com/watch?v=8pH5Lv4d5-g
+Object-Relational Mapping Explained for EVERYONE (with Code Examples) 🚀
+https://www.youtube.com/watch?v=c2K5QRYjmeA
+The Repository Pattern explained for EVERYONE (with Code Examples) 🚀
+https://www.youtube.com/watch?v=Wiy54682d1w
+.NET 6 EF Core 🚀 Load Related Data with Include(), ThenInclude() & AutoInclude()
+https://www.youtube.com/watch?v=7HuOivcr6Mg
+.NET 6 & EF Core 🚀 ALL Relationships (1:1, 1:n, n:n) with Entity Framework Core 6 & SQL Server
+https://www.youtube.com/watch?v=FHx6AGVF_IE
+.NET 6 Web API 🔒 Read JWT Authorization Claims of a User (from a JSON Web Token)
+https://www.youtube.com/watch?v=fhWIkbF18lM
+Unit Testing | Intro - First Test [1 of 8]
+https://www.youtube.com/watch?v=aq3IbO0RwAQ&list=PL82C6-O4XrHeyeJcI5xrywgpfbrqdkQd4&index=1&ab_channel=TeddySmith
+Unit Testing | XUnit & Fluent Assertion [2 of 8]
+https://www.youtube.com/watch?v=MJhQCMnRggs&list=PL82C6-O4XrHeyeJcI5xrywgpfbrqdkQd4&index=2&ab_channel=TeddySmith
+Unit Testing | Testing Objects, IEnumerable, & Dates [3 of 8]
+https://www.youtube.com/watch?v=8UVrVynTZsg&list=PL82C6-O4XrHeyeJcI5xrywgpfbrqdkQd4&index=3&ab_channel=TeddySmith
+Unit Testing | Mocking [4 of 8]
+https://www.youtube.com/watch?v=GMYCNfDXQIk&list=PL82C6-O4XrHeyeJcI5xrywgpfbrqdkQd4&index=4&ab_channel=TeddySmith
+Unit Testing | MVC Controllers [5 of 8]
+https://www.youtube.com/watch?v=QnIwfFjBkTM&list=PL82C6-O4XrHeyeJcI5xrywgpfbrqdkQd4&index=5&ab_channel=TeddySmith
+Unit Testing | MVC Entity Framework [6 of 8]
+https://www.youtube.com/watch?v=AwQFxsdM1yA&list=PL82C6-O4XrHeyeJcI5xrywgpfbrqdkQd4&index=6&ab_channel=TeddySmith
+Unit Testing | API Controllers [7 of 8]
+https://www.youtube.com/watch?v=3BsESpxSzzw&list=PL82C6-O4XrHeyeJcI5xrywgpfbrqdkQd4&index=7&ab_channel=TeddySmith
+Unit Testing | API Entity Framework [8 of 8]
+https://www.youtube.com/watch?v=JV6u4xfyaM8&list=PL82C6-O4XrHeyeJcI5xrywgpfbrqdkQd4&index=8&ab_channel=TeddySmith
+.NET Activity (Updated)
+https://myoffice.accenture.com/:p:/r/personal/gary_matalote_accenture_com/_layouts/15/Doc.aspx?sourcedoc=%7B8BF0F5FE-F05D-4263-8E4E-7408292EB2BD%7D&file=NET%20Activity.pptx&action=edit&mobileredirect=true
